@@ -1,2 +1,3 @@
 git by allenzeng@yidaoyongche
 git by driver allen.
+git is a distributed version repository 
